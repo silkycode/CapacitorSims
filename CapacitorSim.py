@@ -1,5 +1,3 @@
-## Nick Cudd
-## Phys 122 7686 Spring 2022
 ## Capacitor Miniproject
 
 import math
